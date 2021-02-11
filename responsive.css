@@ -1,0 +1,26 @@
+@media (min-width:376px) and (max-width:767px){
+nav ul li{
+font-size:16.5px;
+padding-right:1.5em;
+}
+.home .inner h2{
+font-size:40px;
+}
+.home .inner img{
+margin-bottom: -40px;
+}
+.about .inner{
+width:88%;
+padding:25px;
+}
+.about .inner p,li{
+font-size:18px;
+text-align:justify;
+}
+.education .inner h1, .hobbies .inner h1,.skills .inner h1, .about .inner h1{
+font-size:32px;
+}
+.education .inner div,.hobbies .inner div,.skills .inner div{
+width:100%;
+}
+}
